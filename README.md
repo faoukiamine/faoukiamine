@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Amine FAOUKI
 
 <!--
-**faoukiamine/faoukiamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**faoukiamine/intro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 🔭 I'm currently working on an intern project
+* 👀 I'm interested in web and mobile development
+* 📫 [Reach me on Linkedin](https://www.linkedin.com/in/faoukiamine/)
