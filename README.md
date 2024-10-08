@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 👀 I'm interested in web and mobile development
+* 👀 I'm interested in web development
 * 📫 [Reach me on Linkedin](https://www.linkedin.com/in/faoukiamine/)
